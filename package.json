@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "@slimeswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "slimeswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
